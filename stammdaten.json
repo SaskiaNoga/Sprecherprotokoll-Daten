@@ -4,9 +4,9 @@
   "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
   "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
   "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
-  "version": 1,
-  "veroeffentlicht_am": "2026-11-23T20:01:52",
-  "veroeffentlichung_id": "ac4fb4876add4c98a4b96656ced557a4",
+  "version": 2,
+  "veroeffentlicht_am": "2026-11-23T21:30:45",
+  "veroeffentlichung_id": "97c9dc5173d2470a8367e7d205f47663",
   "daten_sha256": "9d4203db17b4e680c1bcb7e82b58990d3fcafdf016ca69d66d85e5126cbf09c1",
   "daten": {
     "personen": {
@@ -721,5 +721,33 @@
     "wurzel": "7fc4ff2619b3910e",
     "signatur": "pauMp2hmqbwhg6tNwfIRnHj2Cl6+J4+xH1sGjJmS9H8rhpYkJQFqK41uZuL1HY8DFjYgexCGier3ISoeKmzeCg=="
   },
-  "signatur": "DQjfbcBF8LMhG6Mf/qRRsZmREAPOwOjRDeZg1hQxksH4c0H/mciBDMbJR+EDfZLSvtee21mJrl1iNoVUO6xRDQ=="
+  "kontaktzugang": {
+    "art": "sprecherprotokoll-kontaktzugang",
+    "format": 1,
+    "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+    "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+    "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+    "kennung": "1c9127ce551d4cd5",
+    "kdf": {
+      "verfahren": "argon2id",
+      "speicher_kib": 65536,
+      "iterationen": 3,
+      "parallel": 4,
+      "laenge": 32
+    },
+    "salt": "4EGLUBbuYNueGEmjbdUCyQ==",
+    "nonce": "cRWf0GbyBru8Ydfp",
+    "chiffrat": "ogkoNRm6LRz4f5uBGBgYpp+hxzgPJMDxO3ykRvOmGdjit6s5fRqF8ALfmam8IYQ/",
+    "ruecknahme": {
+      "salt": "sfvdchBrUeX/gNEGEMRxAw==",
+      "nonce": "jdg9c/F2chNGZZWW",
+      "chiffrat": "7hnVu7sdMva695DU6LD8lIWJLs1S1nw8iS8mmw9LuEcNZmmBSpdtn24pUvA3JlocDiHnk8T91FGy7acNJ1e4Y7JgL/NRjZZTUMtYAhBP3J5GI8EwUfVlt7vKjr5GQqERGy7t9onV5Ccd+A=="
+    }
+  },
+  "kontakte": {
+    "kennung": "1c9127ce551d4cd5",
+    "nonce": "rK0PpbsQy9owS5Ue",
+    "chiffrat": "58x4g6+NBSozl/byCU2F19fHv1t6uuYRGT2lq2V0p8q/IDMIDmvb0gJq0oKkC/TyzoPXpkuW9x4KsWn61AvaJ+DEjkSciJtNm4zJOc0elgthBcQStGVBYTYy1jpUOL46YGq4oR1Sy49z+0iSIUjSKlVZ8SHZunKBv3UOTuB0bh3UQ7h642oMC3dxNSjPgZaJ0mcBQ9pzNOsEU/l/1fRyWZnpQaL1XCJEI1FYsu00JxFxZh9SmsEpRQeSTLYI/+K1YFPYwi0KFuqcd+6dW1Nki7e21/K8xN8QQvHUqDHUBV4SFBJBDZWHmJxUAHmSkWl0H2KajH4WnOKt8NZhzPtn9Qh5PxuTWjeIFQm2h0I6K+2cpqdxX1xFZGRDoWL+PMKyVbIXfpfBggYkhkVFBUIMwUOp/e53IVz0GKfo3Mf8rFrN15CpCtAiPbT+9zimj8j8/XtUIOyOqEhUuQQEwjPN3zgm69lysg71Y3DpfmBnhJVx1xvJtJJ6OgAft1iRDpj+gnDas+CftzbPhKtl6wm8ZHoY7GVdt2sPmYtL4nlxbVRUb/8VqSIvbjMvqh0MW3uHa6bijhj3e7iRPdxb+b1Z6Q5kqglYSRDpePLpCdQAQ6CS6+oFyKGmTwy/7Oz8stybnNTyN4eCe63Pc0YMFbFdJIDvcwcjC+dgk9UCA5E7KIvA2VMehBY0kI+cWMudRn9OkTpVNqCc/13T9fdlPgyEW8CH+Z9ToK9p06CoSAQBmjfQNmaAWnJdQzoXM1XGpwI4uMMuDj8mA12oqtL3bYyMi20odMSjmZl/vPh/ShpCAViAuKQajwgyBdftP3FRXNpIEMtLpMZKNqo13Jl3U45kvQca1nUApqdNHmHOfObQ7uThM6U3vJNWMwMmEiIl+SI1glc5f33Nmmnf+MJw3BAqCFcd1P/JhVZQtpRo2+2xWlrktIQN3UzBpzteF7FcITvaLp6ArVpCugoCi8ksRt5e14D8Sf3RtssHH1lcB4zzLLEElp6/eCQGbU+DZLwiuIxCRbv6710pyOB6qTl4JUH/lMYiHDr4KDr9lE+B449F/q2d5UGbTYlQTLqWSKb/2r66rOKiOe71xC2+ghTFavy+d5i9cQDKWS0gV49JWuSywe/8n2FMVCiNvKdG5XJ7GhrnTOFedfpWCu9sNGgF7hkRRS6msJlwOFLb0lItehghvtRqQJS8mv84tkPuPzn3qLmnwX/I9dFndeKARAJUjSv3K0hacN1d3F6ITnkeLrlM0PxCPDyjf6X7Jk2dXxgEZzDGsiNDc9trAw4fGCbsEO/eCpNJvOVBy/SZpOHHyNR/MnCqiR0CpDf8zAxXQ+xK7/i3kFeGVK6H6cWU/mcLFk+rhYRCuWA721XNVe+odB1rFweyvgF60htrdBielMQFQzCuHuZBIpeNpHf/o7EYHkbfG2LYFp5+JvOwTWmm51GTkTudLC6dbIPuwHS2Pxy3cfGF++mAO0597pEjE1kaU8A3Eq8p19o+8DkQ2vaHWxS/0RSt9aU3nCiG1uYIwF2ONV8YVaGBWrgN+Hua1vl5cd1srZuL9l5WRrtyQIo9ZH53WRA8ELeY6ULPhq5/AlQrGudECf7L6uuHz1IDU2pQW27e2g=="
+  },
+  "signatur": "nrz6Pl2Nt8CuRol58Ivrp40wr0QMlXLxto4xi+xLEYgE/TA7HjK4E0f+Lx7LRaiw+zLAAjXnkBAdSW2LGsRUCw=="
 }
