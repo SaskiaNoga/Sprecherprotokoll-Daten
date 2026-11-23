@@ -1,0 +1,725 @@
+{
+  "art": "sprecherprotokoll-stammdaten",
+  "format": 2,
+  "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+  "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+  "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+  "version": 1,
+  "veroeffentlicht_am": "2026-11-23T20:01:52",
+  "veroeffentlichung_id": "ac4fb4876add4c98a4b96656ced557a4",
+  "daten_sha256": "9d4203db17b4e680c1bcb7e82b58990d3fcafdf016ca69d66d85e5126cbf09c1",
+  "daten": {
+    "personen": {
+      "p-b1f95e5c-e373-5b8c-8c4f-4ac19e7ba081": {
+        "name": "Felix Steindorf",
+        "skb": false,
+        "vorstand": "vorsitz"
+      },
+      "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961": {
+        "name": "Heike Heinzkill",
+        "skb": false,
+        "vorstand": "stellv1"
+      },
+      "p-415d094a-8783-5f6e-94de-b087b36f4292": {
+        "name": "Saskia Noga",
+        "skb": false,
+        "vorstand": "stellv2"
+      },
+      "p-e8f99c2a-ec9f-5a12-b2d2-0d31069a094f": {
+        "name": "Lars König",
+        "skb": false,
+        "vorstand": "schatzmeister"
+      },
+      "p-962f7548-9937-57d7-91f5-0baddd3fd0d2": {
+        "name": "Dr. Klaus Befelein",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-fa2d3699-cca5-599e-a209-51ec49b0adf7": {
+        "name": "Luca Golz",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-6645c243-71db-5126-a89b-96204b575abc": {
+        "name": "Daniel Gräfingholt",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-e0ff7437-f770-5828-ba03-06628e4138de": {
+        "name": "Maik Jesinghaus",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-fca1e3ea-4361-5a33-8990-947d067a6143": {
+        "name": "Tanja Kaschel",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-dc63a1d7-6ee6-510e-ad58-93bc5876ace4": {
+        "name": "Gerhard Ligensa",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-dd18242f-869d-50f0-b00e-c493846b0a9e": {
+        "name": "Sabine Limberg",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-cb9cd85e-3b16-5721-b6ae-b9f73c1d0135": {
+        "name": "André Meister",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-8c779b91-31ec-4b8c-b6bd-996bd891e894": {
+        "name": "Sabine Noll",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-6e9758c7-53c8-54e9-839c-db5c9ca923d1": {
+        "name": "Torsten Schulte",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-6cf1be3a-54bd-5384-93d7-cb98dfd0c812": {
+        "name": "Gabriele Valentin",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-6968c0fc-0ba0-5b04-871b-e27afe02be1a": {
+        "name": "Dr. Christian Waschke",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-8ae41fe4-10f6-5211-bf3e-121448d5d833": {
+        "name": "Frank Weituschat",
+        "skb": false,
+        "vorstand": ""
+      },
+      "p-761b00f8-9646-57ca-ac7f-e69df7d6bfc9": {
+        "name": "Meike Biesenbach",
+        "skb": true,
+        "vorstand": ""
+      },
+      "p-0b0a47e5-833e-56ec-b9ab-8cc3b536115b": {
+        "name": "Ingeborg Gerhard",
+        "skb": true,
+        "vorstand": ""
+      },
+      "p-7a5fc799-055d-5fb0-9563-fd78be8f0e7f": {
+        "name": "Christian Hoser",
+        "skb": true,
+        "vorstand": ""
+      },
+      "p-85391f05-dd5e-5a69-a339-e9eade4f46d3": {
+        "name": "Barbara Ibing",
+        "skb": true,
+        "vorstand": ""
+      },
+      "p-4ab74137-4f0e-57a4-abb9-6ccc65cf247e": {
+        "name": "Sabine Silvanus",
+        "skb": true,
+        "vorstand": ""
+      },
+      "p-77885a5a-2896-56de-b327-f0b8cf7ac2b6": {
+        "name": "Iris Stockbauer",
+        "skb": true,
+        "vorstand": ""
+      }
+    },
+    "ausschuesse": {
+      "a-2996927e-9c19-5823-87b4-4059bf8582b9": {
+        "name": "Haupt- und Finanzausschuss",
+        "art": "ausschuss",
+        "icon": "finance",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-232dd533-0100-5927-9f22-f31acf22ccfa": {
+        "name": "Rechnungsprüfungsausschuss",
+        "art": "ausschuss",
+        "icon": "audit",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-15430719-6a01-5b90-929e-23890f8d374b": {
+        "name": "Ausschuss für Jugendhilfe und Schule",
+        "art": "ausschuss",
+        "icon": "family",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-36a360c3-9005-5184-83c2-8dcd5313ced2": {
+        "name": "Ausschuss für Umwelt, Klimaschutz, Verkehr, öffentliche Sicherheit und Ordnung",
+        "art": "ausschuss",
+        "icon": "environment",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-9e5f3914-25ec-550d-b76a-11441cb58a7e": {
+        "name": "Ausschuss für Kultur, Sport und Freizeit",
+        "art": "ausschuss",
+        "icon": "culture",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-58b012e0-bbee-537a-9971-1b7a6539644e": {
+        "name": "Ausschuss für Stadtentwicklung und Denkmalschutz",
+        "art": "ausschuss",
+        "icon": "building",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-2c1686c1-9643-5882-a069-e5843de340af": {
+        "name": "Ausschuss für Soziales und Demografie",
+        "art": "ausschuss",
+        "icon": "social",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93": {
+        "name": "Ausschuss für Anregungen und Beschwerden",
+        "art": "ausschuss",
+        "icon": "dialogue",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-6502b4f3-90d7-57f0-bd18-a23933327b30": {
+        "name": "Wahlprüfungsausschuss",
+        "art": "ausschuss",
+        "icon": "audit",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d": {
+        "name": "Ausschuss für Hochbau und Gebäudemanagement",
+        "art": "ausschuss",
+        "icon": "building",
+        "archiviert": false,
+        "fruehere_namen": []
+      },
+      "a-d2b5fedf-c537-59d3-973d-624066d70cae": {
+        "name": "Betriebsausschuss",
+        "art": "ausschuss",
+        "icon": "committee",
+        "archiviert": true,
+        "fruehere_namen": []
+      }
+    },
+    "mitgliedschaften": {
+      "m-55ea881ad3455573ac3129155d0df32c": {
+        "person": "p-b1f95e5c-e373-5b8c-8c4f-4ac19e7ba081",
+        "ausschuss": "a-2996927e-9c19-5823-87b4-4059bf8582b9",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-eb5d983715605fb1bc9533fc22ed4d27": {
+        "person": "p-6968c0fc-0ba0-5b04-871b-e27afe02be1a",
+        "ausschuss": "a-2996927e-9c19-5823-87b4-4059bf8582b9",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-1e58038de21a5741bda02b1e0d6c0a25": {
+        "person": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "ausschuss": "a-2996927e-9c19-5823-87b4-4059bf8582b9",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-683d42b29b975d9b920e7f7fd082ea0a": {
+        "person": "p-fca1e3ea-4361-5a33-8990-947d067a6143",
+        "ausschuss": "a-2996927e-9c19-5823-87b4-4059bf8582b9",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-09f77082bb145099a562e1d11fb0f73c": {
+        "person": "p-8ae41fe4-10f6-5211-bf3e-121448d5d833",
+        "ausschuss": "a-2996927e-9c19-5823-87b4-4059bf8582b9",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-5dfa3b5fe87e59e3bafb7a8469015ca1": {
+        "person": "p-b1f95e5c-e373-5b8c-8c4f-4ac19e7ba081",
+        "ausschuss": "a-2996927e-9c19-5823-87b4-4059bf8582b9",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-8d665fe4556159d78402e18a4478808a": {
+        "person": "p-962f7548-9937-57d7-91f5-0baddd3fd0d2",
+        "ausschuss": "a-232dd533-0100-5927-9f22-f31acf22ccfa",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-63c009709d7f5d0586c941f6d08dc5d6": {
+        "person": "p-6cf1be3a-54bd-5384-93d7-cb98dfd0c812",
+        "ausschuss": "a-232dd533-0100-5927-9f22-f31acf22ccfa",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-18acb37951615e55830fa771b144aedc": {
+        "person": "p-8ae41fe4-10f6-5211-bf3e-121448d5d833",
+        "ausschuss": "a-232dd533-0100-5927-9f22-f31acf22ccfa",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-ff8a966216de5691a6b60d19ae28cb93": {
+        "person": "p-6968c0fc-0ba0-5b04-871b-e27afe02be1a",
+        "ausschuss": "a-232dd533-0100-5927-9f22-f31acf22ccfa",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-ca79eef582fb53eeab99d5b62507da36": {
+        "person": "p-dc63a1d7-6ee6-510e-ad58-93bc5876ace4",
+        "ausschuss": "a-232dd533-0100-5927-9f22-f31acf22ccfa",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-2ee006239b4a5959a1e4e36dae880b57": {
+        "person": "p-6968c0fc-0ba0-5b04-871b-e27afe02be1a",
+        "ausschuss": "a-232dd533-0100-5927-9f22-f31acf22ccfa",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-bb413f58521550aeae793b00fe5efbc4": {
+        "person": "p-6968c0fc-0ba0-5b04-871b-e27afe02be1a",
+        "ausschuss": "a-15430719-6a01-5b90-929e-23890f8d374b",
+        "funktion": "mitglied",
+        "vertretung": "p-e0ff7437-f770-5828-ba03-06628e4138de",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-6a82e7911cd058f1846ff42a0ee83898": {
+        "person": "p-dd18242f-869d-50f0-b00e-c493846b0a9e",
+        "ausschuss": "a-15430719-6a01-5b90-929e-23890f8d374b",
+        "funktion": "mitglied",
+        "vertretung": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-9505095cd51f514fbe6b3733e459decc": {
+        "person": "p-415d094a-8783-5f6e-94de-b087b36f4292",
+        "ausschuss": "a-15430719-6a01-5b90-929e-23890f8d374b",
+        "funktion": "mitglied",
+        "vertretung": "p-fa2d3699-cca5-599e-a209-51ec49b0adf7",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-b1605da95cf752c5b6c330b4fe36241b": {
+        "person": "p-7a5fc799-055d-5fb0-9563-fd78be8f0e7f",
+        "ausschuss": "a-15430719-6a01-5b90-929e-23890f8d374b",
+        "funktion": "mitglied",
+        "vertretung": "p-85391f05-dd5e-5a69-a339-e9eade4f46d3",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-a372462b032656c0becc04e3426373fa": {
+        "person": "p-415d094a-8783-5f6e-94de-b087b36f4292",
+        "ausschuss": "a-15430719-6a01-5b90-929e-23890f8d374b",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-2d30bb319c395dbb94934b7df20110a5": {
+        "person": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "ausschuss": "a-36a360c3-9005-5184-83c2-8dcd5313ced2",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-97d7710ec44e526c953236693b6765f2": {
+        "person": "p-6645c243-71db-5126-a89b-96204b575abc",
+        "ausschuss": "a-36a360c3-9005-5184-83c2-8dcd5313ced2",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-45c82e4957b75f45a05631b00840f027": {
+        "person": "p-fa2d3699-cca5-599e-a209-51ec49b0adf7",
+        "ausschuss": "a-36a360c3-9005-5184-83c2-8dcd5313ced2",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-b6918ffee2d955aeb4c260b9f51182b9": {
+        "person": "p-8ae41fe4-10f6-5211-bf3e-121448d5d833",
+        "ausschuss": "a-36a360c3-9005-5184-83c2-8dcd5313ced2",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-9c70ff1a844d5956894ea9dee2ef8133": {
+        "person": "p-dd18242f-869d-50f0-b00e-c493846b0a9e",
+        "ausschuss": "a-36a360c3-9005-5184-83c2-8dcd5313ced2",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-719a3e66d63b5aa4823ade841a05baea": {
+        "person": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "ausschuss": "a-36a360c3-9005-5184-83c2-8dcd5313ced2",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-8656272b1e6d594ca38acae27cc0db65": {
+        "person": "p-6e9758c7-53c8-54e9-839c-db5c9ca923d1",
+        "ausschuss": "a-9e5f3914-25ec-550d-b76a-11441cb58a7e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-17fc2ef1cefb56acb6d453e04ab938f5": {
+        "person": "p-cb9cd85e-3b16-5721-b6ae-b9f73c1d0135",
+        "ausschuss": "a-9e5f3914-25ec-550d-b76a-11441cb58a7e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-b5046ba5e4c8582ab6c4d4fa47ac35ec": {
+        "person": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "ausschuss": "a-9e5f3914-25ec-550d-b76a-11441cb58a7e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-d4e6baa23b2b5db9b1079745338a9bc8": {
+        "person": "p-e8f99c2a-ec9f-5a12-b2d2-0d31069a094f",
+        "ausschuss": "a-9e5f3914-25ec-550d-b76a-11441cb58a7e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-235b8ca39b9b5809a70a1f6bc6936e70": {
+        "person": "p-4ab74137-4f0e-57a4-abb9-6ccc65cf247e",
+        "ausschuss": "a-9e5f3914-25ec-550d-b76a-11441cb58a7e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-bb7c9ac6c29f5d34a8bd2b77109c8268": {
+        "person": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "ausschuss": "a-9e5f3914-25ec-550d-b76a-11441cb58a7e",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-d7220016608c5300919adb085e90d50c": {
+        "person": "p-6cf1be3a-54bd-5384-93d7-cb98dfd0c812",
+        "ausschuss": "a-58b012e0-bbee-537a-9971-1b7a6539644e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-c944be11956b5780bb92bfa8c3646a79": {
+        "person": "p-b1f95e5c-e373-5b8c-8c4f-4ac19e7ba081",
+        "ausschuss": "a-58b012e0-bbee-537a-9971-1b7a6539644e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-8cf9724b480f50d9b2688b669f9ce969": {
+        "person": "p-6645c243-71db-5126-a89b-96204b575abc",
+        "ausschuss": "a-58b012e0-bbee-537a-9971-1b7a6539644e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-fa8cc058de5a5458893009f5a4744ccd": {
+        "person": "p-dc63a1d7-6ee6-510e-ad58-93bc5876ace4",
+        "ausschuss": "a-58b012e0-bbee-537a-9971-1b7a6539644e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-6e024ce5819e5184b0510176629c2171": {
+        "person": "p-4ab74137-4f0e-57a4-abb9-6ccc65cf247e",
+        "ausschuss": "a-58b012e0-bbee-537a-9971-1b7a6539644e",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-446b8e1edd4251aaa68f6f1e7206e19b": {
+        "person": "p-b1f95e5c-e373-5b8c-8c4f-4ac19e7ba081",
+        "ausschuss": "a-58b012e0-bbee-537a-9971-1b7a6539644e",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-2d3662696ee455deaa3d1e6242289997": {
+        "person": "p-962f7548-9937-57d7-91f5-0baddd3fd0d2",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-3518ec996b5758e6a5a114d969b5ecf5": {
+        "person": "p-e8f99c2a-ec9f-5a12-b2d2-0d31069a094f",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-bf8eefdbe92151888659438cb2949f46": {
+        "person": "p-415d094a-8783-5f6e-94de-b087b36f4292",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-c8bb4599f37558c58150c0c309fb7a77": {
+        "person": "p-85391f05-dd5e-5a69-a339-e9eade4f46d3",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-4d0a8fb55ba35a1f94b9e1bf56a18a98": {
+        "person": "p-77885a5a-2896-56de-b327-f0b8cf7ac2b6",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-18df1344c57a51f6b94bdc49b33f46de": {
+        "person": "p-0b0a47e5-833e-56ec-b9ab-8cc3b536115b",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "ersatz",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-8bcdca06b4a35d7c823bf6a9273ac322": {
+        "person": "p-962f7548-9937-57d7-91f5-0baddd3fd0d2",
+        "ausschuss": "a-2c1686c1-9643-5882-a069-e5843de340af",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-6d706c6a0ea251599dc33cb014d98a55": {
+        "person": "p-83d9e25d-c46c-50e5-b3fb-8ca106b93961",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-e0e6268a26ca5e8daf37f8a96edefd3f": {
+        "person": "p-fa2d3699-cca5-599e-a209-51ec49b0adf7",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-006ee1e515425022a026a78e723b8118": {
+        "person": "p-6cf1be3a-54bd-5384-93d7-cb98dfd0c812",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-7b4c7a490280523db0562cb86e8a6ec8": {
+        "person": "p-e0ff7437-f770-5828-ba03-06628e4138de",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-3f04ab9c96e25564a826b17fd982452a": {
+        "person": "p-77885a5a-2896-56de-b327-f0b8cf7ac2b6",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-8318dd8c3f545a4d86f72281e9300b4d": {
+        "person": "p-761b00f8-9646-57ca-ac7f-e69df7d6bfc9",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "ersatz",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-a6f6d457c0e759979943e1f505b6fffe": {
+        "person": "p-dd18242f-869d-50f0-b00e-c493846b0a9e",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "ersatz",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-fba50ebd3f465edfa880e9da809e40db": {
+        "person": "p-fa2d3699-cca5-599e-a209-51ec49b0adf7",
+        "ausschuss": "a-e9a8fd24-4918-5219-ae6f-7aedaaf60f93",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-4fec4b50ebf65ddcb177bc1b9721de2d": {
+        "person": "p-6968c0fc-0ba0-5b04-871b-e27afe02be1a",
+        "ausschuss": "a-6502b4f3-90d7-57f0-bd18-a23933327b30",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-2813b02166e65529834f089d705b41c4": {
+        "person": "p-962f7548-9937-57d7-91f5-0baddd3fd0d2",
+        "ausschuss": "a-6502b4f3-90d7-57f0-bd18-a23933327b30",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-bce402fec92558088baa60866b22cad6": {
+        "person": "p-cb9cd85e-3b16-5721-b6ae-b9f73c1d0135",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-5499f08712225fb9b9a6b210b6bf36e1": {
+        "person": "p-e8f99c2a-ec9f-5a12-b2d2-0d31069a094f",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-04b0cdf1da6958048f878a1d84f56b4e": {
+        "person": "p-e0ff7437-f770-5828-ba03-06628e4138de",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-2b7af4bc3f8b542a90c6fbcd58b23cbc": {
+        "person": "p-fa2d3699-cca5-599e-a209-51ec49b0adf7",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-333fa65bb78955d08c499dbbd3258d53": {
+        "person": "p-6e9758c7-53c8-54e9-839c-db5c9ca923d1",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "mitglied",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-defd680100345a8cb2b7d12458734501": {
+        "person": "p-4ab74137-4f0e-57a4-abb9-6ccc65cf247e",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "ersatz",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-570bc8a062085efda309fa18df81ac80": {
+        "person": "p-761b00f8-9646-57ca-ac7f-e69df7d6bfc9",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "ersatz",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      },
+      "m-8aef64cf67d05df48a1941697392ccad": {
+        "person": "p-6e9758c7-53c8-54e9-839c-db5c9ca923d1",
+        "ausschuss": "a-d69bcdbc-b8e4-4a1a-96f0-a19366140d2d",
+        "funktion": "sprecher",
+        "vertretung": "",
+        "beginn": "2026-11-22",
+        "ende": ""
+      }
+    },
+    "organisationen": {},
+    "einstellungen": {
+      "rat_standard_sprecher": "p-b1f95e5c-e373-5b8c-8c4f-4ac19e7ba081",
+      "rat_icon": "council"
+    }
+  },
+  "antraege": [],
+  "schluessel_kennung": "41b72540a82df0db",
+  "bearbeitungszertifikat": {
+    "art": "sprecherprotokoll-bearbeitungszertifikat",
+    "format": 1,
+    "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+    "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+    "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+    "generation": 1,
+    "schluessel": "891BispYpLoxD8mXlzn/b4xshYqTADdfSxSXBE4Clsw=",
+    "schluessel_kennung": "41b72540a82df0db",
+    "ausgestellt_am": "2026-11-22T19:07:59",
+    "aussteller": "6effaf44065226ed",
+    "signatur": "lPVjAcc3VIVApZJ2BiLIMbYkPtEh9nlYiIKUvCl92rLnlJDxZQG433cI3b9yMX3FCdGheRg4xEWqaoYieBs2Dg=="
+  },
+  "zertifikat": {
+    "art": "sprecherprotokoll-administratorzertifikat",
+    "format": 1,
+    "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+    "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+    "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+    "generation": 1,
+    "schluessel": "xJZE9k540VCrJDrietpPfLQY8+PW+2z5JK7FIAIv4ZI=",
+    "schluessel_kennung": "6effaf44065226ed",
+    "ausgestellt_am": "2026-11-22T18:47:47",
+    "wurzel": "7fc4ff2619b3910e",
+    "signatur": "pauMp2hmqbwhg6tNwfIRnHj2Cl6+J4+xH1sGjJmS9H8rhpYkJQFqK41uZuL1HY8DFjYgexCGier3ISoeKmzeCg=="
+  },
+  "signatur": "DQjfbcBF8LMhG6Mf/qRRsZmREAPOwOjRDeZg1hQxksH4c0H/mciBDMbJR+EDfZLSvtee21mJrl1iNoVUO6xRDQ=="
+}
