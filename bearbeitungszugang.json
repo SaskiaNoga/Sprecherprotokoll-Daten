@@ -1,0 +1,52 @@
+{
+  "art": "sprecherprotokoll-bearbeitungszugang",
+  "format": 1,
+  "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+  "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+  "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+  "generation": 1,
+  "einrichtung_kennung": "0270695f530ff4e6",
+  "kdf": {
+    "verfahren": "argon2id",
+    "speicher_kib": 65536,
+    "iterationen": 3,
+    "parallel": 4,
+    "laenge": 32
+  },
+  "salt": "0UH2qUb7Sxx9Pgl/TlDf1Q==",
+  "erstellt_am": "2026-11-22T19:07:59",
+  "nonce": "zeaRygxhmr/SZEn6",
+  "chiffrat": "vtdScqtzSPVGTKVXl3X+Ssl2KW1AV5JydRnG4gFBDUeYTib6HMMFo8LRw4METAX69ecdPBS2s2YivPlmAaipQlx0QeugZCsTv7QASybV2fqMO5uHAlP6J0Xtj6o9Lu0g6FlcIyI80uI6UrlOCcw6uUeohhni/SJ6VT60QMOheo/TfcK/SEQEjH+uVpBKAclTAPdvpnfSgPRtmVq1K7/8zI7GmTUgGk027QUCCgr/xRMaynwXethj5D9KbAFkMUYh3W64mEi2HVsKJzTRYj3/zRh94eN/rUJS",
+  "bearbeitungszertifikat": {
+    "art": "sprecherprotokoll-bearbeitungszertifikat",
+    "format": 1,
+    "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+    "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+    "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+    "generation": 1,
+    "schluessel": "891BispYpLoxD8mXlzn/b4xshYqTADdfSxSXBE4Clsw=",
+    "schluessel_kennung": "41b72540a82df0db",
+    "ausgestellt_am": "2026-11-22T19:07:59",
+    "aussteller": "6effaf44065226ed",
+    "signatur": "lPVjAcc3VIVApZJ2BiLIMbYkPtEh9nlYiIKUvCl92rLnlJDxZQG433cI3b9yMX3FCdGheRg4xEWqaoYieBs2Dg=="
+  },
+  "zertifikat": {
+    "art": "sprecherprotokoll-administratorzertifikat",
+    "format": 1,
+    "anwendung": "de.cdu-sprockhoevel.sprecherprotokoll",
+    "instanz_id": "b2d7d5f6c5214ab3ba4d1d08bbc5283c",
+    "repository": "SaskiaNoga/Sprecherprotokoll-Daten",
+    "generation": 1,
+    "schluessel": "xJZE9k540VCrJDrietpPfLQY8+PW+2z5JK7FIAIv4ZI=",
+    "schluessel_kennung": "6effaf44065226ed",
+    "ausgestellt_am": "2026-11-22T18:47:47",
+    "wurzel": "7fc4ff2619b3910e",
+    "signatur": "pauMp2hmqbwhg6tNwfIRnHj2Cl6+J4+xH1sGjJmS9H8rhpYkJQFqK41uZuL1HY8DFjYgexCGier3ISoeKmzeCg=="
+  },
+  "ruecknahme": {
+    "salt": "mXTJbBTXt+7K/v9ZPwBQiQ==",
+    "nonce": "1CHqSRq1E05efhEi",
+    "chiffrat": "FZD5P8+Kui7+fcb9mSgbXY3JxGVlDq6iiq9BOLkSoXdqNCBQ/7Uk5CYEizPmFRhLbsTCqXWE1UPa1Aoc7S5xWV3bePyHJoxYzhxd1MiTD6kC3GffeFc5SIiBDZy2vneQ5fcQDD3yKrndWWolbg=="
+  },
+  "signatur": "1lNEaSTRKosrvgAQ875U3295hVN1EBc5N21zu/xUsih4RuSTQMhrYrzaKp8wwY6M72AxNxSizkLM2n9wcqUIDw=="
+}
